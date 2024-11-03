@@ -6,8 +6,7 @@ public class Main {
     //System.out.println(employee.getEmpSalary());
 
     University university = new University("NTNU", 1);
-    //university.getUniCode();
-    //university.getUniName();
+
 
   }
 }
